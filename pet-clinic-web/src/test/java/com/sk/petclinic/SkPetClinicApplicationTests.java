@@ -1,4 +1,4 @@
-package com.sk.skpetclinic;
+package com.sk.petclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
