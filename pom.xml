@@ -42,7 +42,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/sumitml/sk_pet_clinic.git</developerConnection>
-      <tag>Release 1</tag>
+
   </scm>
 
 </project>
