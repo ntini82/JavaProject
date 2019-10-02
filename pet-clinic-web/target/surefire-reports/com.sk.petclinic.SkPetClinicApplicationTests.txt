@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.sk.petclinic.SkPetClinicApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.823 s - in com.sk.petclinic.SkPetClinicApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.786 s - in com.sk.petclinic.SkPetClinicApplicationTests
