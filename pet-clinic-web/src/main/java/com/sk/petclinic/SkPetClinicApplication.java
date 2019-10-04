@@ -10,4 +10,5 @@ public class SkPetClinicApplication {
         SpringApplication.run(SkPetClinicApplication.class, args);
     }
 
+
 }
