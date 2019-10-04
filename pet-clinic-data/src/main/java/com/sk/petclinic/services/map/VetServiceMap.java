@@ -30,5 +30,6 @@ public class VetServiceMap extends AbstractMapService<Vet, Long> implements CRUD
     @Override
     public void deleteById(Long id) {
         super.deleteByID(id);
+
     }
 }
