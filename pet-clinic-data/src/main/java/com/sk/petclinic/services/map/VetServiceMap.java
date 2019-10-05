@@ -1,11 +1,11 @@
 package com.sk.petclinic.services.map;
 
 import com.sk.petclinic.model.Vet;
-import com.sk.petclinic.services.CRUDService;
+import com.sk.petclinic.services.VetService;
 
 import java.util.Set;
 
-public class VetServiceMap extends AbstractMapService<Vet, Long> implements CRUDService<Vet, Long> {
+public class VetServiceMap extends AbstractMapService<Vet, Long> implements VetService {
 
     @Override
     public Set<Vet> findAll() {
@@ -32,4 +32,6 @@ public class VetServiceMap extends AbstractMapService<Vet, Long> implements CRUD
         super.deleteByID(id);
 
     }
+
+
 }
