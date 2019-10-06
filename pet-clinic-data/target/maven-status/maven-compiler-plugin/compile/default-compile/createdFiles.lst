@@ -1,5 +1,14 @@
-com/sk/petclinic/model/Vet.class
 com/sk/petclinic/model/PetType.class
-com/sk/petclinic/model/Owner.class
 com/sk/petclinic/model/Pet.class
+com/sk/petclinic/services/VetService.class
 com/sk/petclinic/model/Person.class
+com/sk/petclinic/services/map/AbstractMapService.class
+com/sk/petclinic/model/Vet.class
+com/sk/petclinic/services/CRUDService.class
+com/sk/petclinic/services/map/VetServiceMap.class
+com/sk/petclinic/services/map/OwnerServiceMap.class
+com/sk/petclinic/services/PetService.class
+com/sk/petclinic/services/map/PetServiceMap.class
+com/sk/petclinic/services/OwnerService.class
+com/sk/petclinic/model/BaseEntity.class
+com/sk/petclinic/model/Owner.class
